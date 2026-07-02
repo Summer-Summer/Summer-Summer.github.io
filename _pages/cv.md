@@ -11,54 +11,70 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Science**, The University of Sydney (USYD), 2022 – 2026
+  * *Advisor:* Shuaiwen Leon Song
+  * *Thesis:* Compression-Driven Memory-Efficient and High-Throughput GPU Systems for LLM Inference.
+* **M.S. in Computer Architecture**, University of Science and Technology of China (USTC), 2018 – 2021
+  * *Thesis:* The design and implementation of a lightweight Automata Processor.
+  * *Honors:* First Class Scholarship
+* **B.S. in Computer Science and Technology**, University of Science and Technology of China (USTC), 2014 – 2018
+  * *Thesis:* FPGA Based CNN Accelerator Design.
+  * *Honors:* Talent Program
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Software Engineer** | Google Research
+  * *Nov 2025 – Present* (Full-time, On-site)
+  * Duties: Optimizing production-level TPU-based LLM inference systems.
+* **Research Consultant** | Together AI
+  * *Mar 2024 – Sept 2024* (Part-time, Remote)
+  * Duties: Optimizing the LLM inference system, identifying and mitigating performance issues in LoRA inference, and developing the FP8 MHA Decoding GPU kernel using OpenAI Triton.
+* **Research Intern** | Alibaba Cloud
+  * *Feb 2022 – Aug 2023* (Remote, Un-paid)
+  * Duties: Extension of the former research project on large-scale ML model acceleration frameworks.
+* **Research Intern** | Alibaba Cloud
+  * *Aug 2021 – Jan 2022* (On-site)
+  * Duties: Part of the Alibaba Innovative Research (AIR) program. Investigated SOTA system support for LLMs, and R&D a novel large-scale ML model acceleration framework.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Research Interests:** Performance Optimization, Machine Learning System, Runtime Systems, Computer Architecture, Domain Specific Architectures, GPU/TPU Kernel Design
+* **Programming Languages:** JAX, Pallas (TPU), C/C++, Python, CUDA (GPU), Triton (GPU), Verilog HDL (FPGA)
+* **Software & Frameworks:** Machine Learning Frameworks (e.g., PyTorch, Huggingface Transformers, Faster Transformer), Embedded System Design and Implementation (e.g., Xilinx FPGA + ARM CPUs)
 
-Publications
+Selected Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+<!-- Automatically load all items from collections -->
+<ul>{% for post in site.publications reversed %}
+  {% if post.category != 'thesis' %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endif %}
+{% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html  %}
+{% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Teaching Assistant**, USTC
+  * *Mar 2019 – Jun 2019:* Computer Architecture 2019
+  * *Mar 2018 – Jun 2018:* Computer Architecture 2018
+  * *Sep 2017 – Dec 2017:* Digital Circuit Theory 2017
+  * *Sep 2016 – Dec 2016:* Digital Circuit Experiments 2016
+
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
   
-Service and leadership
+Honors and Achievements
 ======
-* Currently signed in to 43 different slack teams
+* **2022 – 2026:** Faculty of Engineering Research Scholarship, PhD study, USYD
+* **2021:** Outstanding Graduates (Top 15%), Master's study, USTC
+* **2020:** Suzhou Park Scholarship, Master's study, USTC
+* **2018 – 2021:** First Class Academic Scholarship, Master's study, USTC
+* **2018:** Yang Yuanqing Education Fund - Top Research Scholarship, Bachelor's study, USTC
+* **2018:** Outstanding Graduates (Top 15%), Bachelor's study, USTC
+* **2014 – 2018:** Talent program in computer science and technology, USTC
