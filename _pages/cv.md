@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Computer Science**, The University of Sydney (USYD), 2022 – 2026
-  * *Advisor:* Shuaiwen Leon Song
   * *Thesis:* Compression-Driven Memory-Efficient and High-Throughput GPU Systems for LLM Inference.
 * **M.S. in Computer Architecture**, University of Science and Technology of China (USTC), 2018 – 2021
   * *Thesis:* The design and implementation of a lightweight Automata Processor.
