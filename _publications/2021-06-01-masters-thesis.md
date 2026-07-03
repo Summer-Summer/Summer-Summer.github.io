@@ -7,7 +7,7 @@ permalink: /publication/2021-06-01-masters-thesis
 excerpt: 'This thesis focuses on the architecture design, Verilog HDL prototyping, and hardware-software co-design of a high-performance, memory-efficient lightweight automata processing engine for large-scale pattern matching.'
 date: 2021-06-01
 venue: 'University of Science and Technology of China (USTC)'
-citation: 'Haojun Xia. &quot;The design and implementation of a lightweight automata processor.&quot; Master&#39;s Thesis, University of Science and Technology of China, 2021.'
+paperurl: '/files/thesis_mphil.pdf'
 ---
 
 This thesis covers the research, hardware architecture prototyping, and hardware-software co-design of a lightweight Automata Processor tailored for large-scale pattern matching (multi-string matching) workloads. 

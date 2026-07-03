@@ -3,10 +3,9 @@ title: "PhD Thesis: Compression-Driven Memory-Efficient and High-Throughput GPU 
 collection: publications
 category: thesis
 permalink: /publication/2026-06-21-phd-thesis
-excerpt: 'My doctoral dissertation focuses on alleviating the memory wall and communication bottlenecks in Large Language Model (LLM) inference through algorithm-system co-design, including low-bit quantization and unstructured sparsity acceleration.'
+excerpt: 'My doctoral dissertation focuses on alleviating the memory wall in Large Language Model (LLM) inference through algorithm-system co-design, including low-bit weight/KV quantization and unstructured weight sparsity acceleration.'
 date: 2026-06-21
 venue: 'The University of Sydney (USYD)'
-citation: 'Haojun Xia. &quot;Compression-Driven Memory-Efficient and High-Throughput GPU Systems for LLM Inference.&quot; PhD Thesis, The University of Sydney, 2026.'
 ---
 
 This doctoral dissertation addresses the severe memory and bandwidth bottlenecks challenges in serving Large Language Models (LLMs) on modern GPU architectures. By driving systematic innovations across the algorithm and runtime system boundaries, this work proposes compression-driven methodologies to achieve high-throughput and memory-efficient LLM inference. 
