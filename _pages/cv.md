@@ -59,12 +59,6 @@ Talks
   
 Teaching
 ======
-* **Teaching Assistant**, USTC
-  * *Mar 2019 – Jun 2019:* Computer Architecture 2019
-  * *Mar 2018 – Jun 2018:* Computer Architecture 2018
-  * *Sep 2017 – Dec 2017:* Digital Circuit Theory 2017
-  * *Sep 2016 – Dec 2016:* Digital Circuit Experiments 2016
-
 <ul>{% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>

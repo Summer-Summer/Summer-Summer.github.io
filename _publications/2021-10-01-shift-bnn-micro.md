@@ -1,6 +1,7 @@
 ---
 title: "Shift-BNN: Highly-Efficient Probabilistic Bayesian Neural Network Training via Memory-Friendly Pattern Retrieving"
 collection: publications
+category: conferences
 permalink: /publication/2021-10-01-shift-bnn-micro
 excerpt: 'Co-designed a hardware accelerator and memory optimization strategy for highly-efficient Bayesian Neural Network (BNN) training on server and edge devices.'
 date: 2021-10-01

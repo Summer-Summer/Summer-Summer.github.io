@@ -1,6 +1,7 @@
 ---
 title: "Kitty: Accurate and Efficient 2-bit KV Cache Quantization with Dynamic Channel-wise Precision Boost"
 collection: publications
+category: conferences
 permalink: /publication/2026-05-01-kitty-mlsys
 excerpt: 'This paper introduces an algorithm-system co-design for accurate 2-bit KV cache quantization, significantly reducing GPU memory consumption and increasing inference throughput during LLM inference.'
 date: 2026-05-01

@@ -1,6 +1,7 @@
 ---
 title: "η-LSTM: Co-Designing Highly-Efficient Large LSTM Training via Exploiting Memory-Saving and Architectural Design Opportunities"
 collection: publications
+category: conferences
 permalink: /publication/2021-06-01-eta-lstm-isca
 excerpt: 'Prototyped an efficient hardware architecture for large-scale LSTM network training, utilizing variable compression and cell skipping.'
 date: 2021-06-01

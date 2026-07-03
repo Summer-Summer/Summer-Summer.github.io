@@ -1,6 +1,7 @@
 ---
 title: "Master's Thesis: The design and implementation of a lightweight automata processor"
 collection: publications
+category: conferences
 category: thesis
 permalink: /publication/2021-06-01-masters-thesis
 excerpt: 'This thesis focuses on the architecture design, Verilog HDL prototyping, and hardware-software co-design of a high-performance, memory-efficient lightweight automata processing engine for large-scale pattern matching.'

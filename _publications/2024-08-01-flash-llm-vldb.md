@@ -1,6 +1,7 @@
 ---
 title: "Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity"
 collection: publications
+category: conferences
 permalink: /publication/2024-08-01-flash-llm-vldb
 excerpt: 'This work develops a highly efficient LLM acceleration framework that provides runtime support for LLM inference with unstructured sparsity, reducing inference costs by up to 50%.'
 date: 2024-08-01
