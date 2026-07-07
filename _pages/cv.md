@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<div class="wordwrap">You can also find my downloadable CV on <a href="/files/cv_haojun_xia.pdf">my CV</a>.</div>
+<div class="wordwrap">This is my <a href="/files/cv_haojun_xia.pdf" target="_blank">downloadable CV</a>.</div>
 
 {% include base_path %}
 
