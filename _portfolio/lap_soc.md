@@ -1,7 +1,8 @@
 ---
 title: "LAP_SoC: A Heterogeneous System-on-Chip with Lightweight Automata Processor"
-excerpt: "Designed and implemented a domain-specific core optimized for ADFA algorithms and integrated it into an ARM-based heterogeneous SoC via high-throughput AXI channels, evaluated on a physical Zedboard FPGA platform.<br/><img src='/images/LAP_SoC/LAP_SoC.png' style='max-width:100%; height:auto;'>"
+excerpt: "Designed and implemented a domain-specific core optimized for ADFA algorithms and integrated it into an ARM-based heterogeneous SoC via high-throughput AXI channels, evaluated on a physical Zedboard FPGA platform.<br/><img src='/images/LAP_SoC/LAP_SoC.png' style='max-width:70%; height:auto;'>"
 collection: portfolio
+date: 2021-05-29
 ---
 
 ### 🚀 Project Overview
@@ -10,7 +11,7 @@ Multi-pattern matching is a fundamental but computationally expensive operation 
 To tackle this bottleneck, I designed and implemented **LAP (Lightweight Automata Processor)**, a domain-specific core optimized for **ADFA (Amortized time/bandwidth overhead DFA)** models. I further integrated this dedicated accelerator into an ARM-based heterogeneous Computing System-on-Chip (**LAP_SoC**) implemented on the Xilinx ZYNQ platform.
 
 <p align="center">
-  <img src="/images/LAP_SoC/LAP_SoC.png" alt="LAP_SoC Architecture" width="60%">
+  <img src="/images/LAP_SoC/LAP_SoC.png" alt="LAP_SoC Architecture" width="85%">
 </p>
 
 ---
