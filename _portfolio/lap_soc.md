@@ -10,7 +10,7 @@ Multi-pattern matching is a fundamental but computationally expensive operation 
 To tackle this bottleneck, I designed and implemented **LAP (Lightweight Automata Processor)**, a domain-specific core optimized for **ADFA (Amortized time/bandwidth overhead DFA)** models. I further integrated this dedicated accelerator into an ARM-based heterogeneous Computing System-on-Chip (**LAP_SoC**) implemented on the Xilinx ZYNQ platform.
 
 <p align="center">
-  <img src="/images/LAP_SoC/LAP_SoC.png" alt="LAP_SoC Architecture" width="90%">
+  <img src="/images/LAP_SoC/LAP_SoC.png" alt="LAP_SoC Architecture" width="60%">
 </p>
 
 ---
