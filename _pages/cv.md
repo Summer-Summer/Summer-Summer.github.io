@@ -27,9 +27,6 @@ Work Experience
 * **Research Software Engineer** | Google Research
   * *Nov 2025 – Present* (Full-time, On-site)
   * Duties: Optimizing production-level TPU-based LLM inference systems.
-* **Research Consultant** | Together AI
-  * *Mar 2024 – Sept 2024* (Part-time, Remote)
-  * Duties: Optimizing the LLM inference system, identifying and mitigating performance issues in LoRA inference, and developing the FP8 MHA Decoding GPU kernel using OpenAI Triton.
 * **Research Intern** | Alibaba Cloud
   * *Feb 2022 – Aug 2023* (Remote)
   * Duties: Extension of the former research project on large-scale ML model acceleration frameworks.
