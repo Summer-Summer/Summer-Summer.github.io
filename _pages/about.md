@@ -16,3 +16,12 @@ My research lies at the intersection of **Computer Systems, Machine Learning (ML
 * **Hardware Acceleration & Custom Microarchitecture:** Leveraging domain-specific architectures (DSA) and custom hardware accelerators (e.g., FPGA/SoC prototypes) to co-design and execute hardware-native execution primitives for modern ML and pattern-matching workloads.
 
 With systematic optimizations spanning from gate-level hardware logic up to distributed software systems, my ultimate goal is to build memory-efficient, high-throughput, and scalable infrastructure to democratize next-generation AI foundation models.
+
+News
+======
+* **[Jul 2026]** My PhD was conferred by The University of Sydney. My thesis is [open access](https://hdl.handle.net/2123/35623).
+* **[May 2026]** Our paper Kitty was selected for an **oral presentation** at [MLSys 2026](https://mlsys.org/virtual/2026/oral/3746).
+* **[Nov 2025]** I joined **Google Research, Australia** as a Research Software Engineer, working on LLM serving efficiency on TPUs.
+* **[Aug 2024]** Oral presentation of Flash-LLM at VLDB 2024, Guangzhou.
+* **[Jul 2024]** Oral presentation of Quant-LLM (FP6-LLM) at [USENIX ATC 2024](https://www.usenix.org/conference/atc24/presentation/xia), Santa Clara.
+* **[2024]** FP6-LLM was integrated into [Microsoft DeepSpeed](https://github.com/deepspeedai/DeepSpeed/blob/master/blogs/deepspeed-fp6/03-05-2024/README.md) and [PyTorch/AO](https://docs.pytorch.org/ao/0.13/generated/torchao.quantization.FPXWeightOnlyConfig.html).

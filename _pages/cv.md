@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Computer Science**, The University of Sydney (USYD), 2022 – 2026
+* **Ph.D. in Computer Science**, The University of Sydney (USYD), 2022 – 2026 (conferred 30 July 2026)
   * *Thesis:* Compression-Driven Memory-Efficient and High-Throughput GPU Systems for LLM Inference.
 * **M.S. in Computer Architecture**, University of Science and Technology of China (USTC), 2018 – 2021
   * *Thesis:* The design and implementation of a lightweight Automata Processor.
@@ -31,7 +31,7 @@ Work Experience
   * *Mar 2024 – Sept 2024* (Part-time, Remote)
   * Duties: Optimizing the LLM inference system, identifying and mitigating performance issues in LoRA inference, and developing the FP8 MHA Decoding GPU kernel using OpenAI Triton.
 * **Research Intern** | Alibaba Cloud
-  * *Feb 2022 – Aug 2023* (Remote, Un-paid)
+  * *Feb 2022 – Aug 2023* (Remote)
   * Duties: Extension of the former research project on large-scale ML model acceleration frameworks.
 * **Research Intern** | Alibaba Cloud
   * *Aug 2021 – Jan 2022* (On-site)

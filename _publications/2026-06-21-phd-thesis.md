@@ -6,11 +6,12 @@ permalink: /publication/2026-06-21-phd-thesis
 excerpt: 'My doctoral dissertation focuses on alleviating the memory wall in Large Language Model (LLM) inference through algorithm-system co-design, including low-bit weight/KV quantization and unstructured weight sparsity acceleration.'
 date: 2026-06-21
 venue: 'The University of Sydney (USYD)'
+paperurl: 'https://hdl.handle.net/2123/35623'
 ---
 
 This doctoral dissertation addresses the severe memory and bandwidth bottlenecks challenges in serving Large Language Models (LLMs) on modern GPU architectures. By driving systematic innovations across the algorithm and runtime system boundaries, this work proposes compression-driven methodologies to achieve high-throughput and memory-efficient LLM inference. 
 
-The dissertation was successfully defended on 4th March 2026 and officially submitted USYD library in June 2026.
+The dissertation was successfully defended on 4th March 2026 and officially submitted to the USYD library in June 2026. The degree was conferred on 30 July 2026, and the thesis is [open access](https://hdl.handle.net/2123/35623).
 
 **Key Contributions:**
 * **Low-Bit Weight/KV Cache Quantization:** Co-designed highly efficient GPU compilation and custom Tensor Core layout support for diverse sub-byte formats (e.g., FP6, 2-bit quantization with dynamic channel-wise boosting), substantially lowering the GPU memory wall.

@@ -12,4 +12,4 @@ citation: 'Haojun Xia, Zhen Zheng, Yuchao Li, Donglin Zhuang, Zhongzhu Zhou, Xia
 
 Identified and analyzed the HBM bandwidth bottleneck during LLM inference. Created a highly efficient LLM acceleration framework providing runtime support for inference with unstructured sparsity, reducing costs by up to 50% for models like OPT-175B.
 
-[Download Code/Project Here](https://github.com/Alibaba-Research/flash-llm)
+[Download Code/Project Here](https://github.com/AlibabaResearch/flash-llm)
